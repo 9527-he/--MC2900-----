@@ -1,0 +1,9 @@
+E:\HPXIN\电气公司插框测试上位机\G0100001.ETP.Test\scr\InsertFrameTest\InsertFrameTest\bin\Release\InsertFrameTest.exe.config
+E:\HPXIN\电气公司插框测试上位机\G0100001.ETP.Test\scr\InsertFrameTest\InsertFrameTest\bin\Release\InsertFrameTest.exe
+E:\HPXIN\电气公司插框测试上位机\G0100001.ETP.Test\scr\InsertFrameTest\InsertFrameTest\bin\Release\InsertFrameTest.pdb
+E:\HPXIN\电气公司插框测试上位机\G0100001.ETP.Test\scr\InsertFrameTest\InsertFrameTest\obj\Release\InsertFrameTest.csproj.AssemblyReference.cache
+E:\HPXIN\电气公司插框测试上位机\G0100001.ETP.Test\scr\InsertFrameTest\InsertFrameTest\obj\Release\InsertFrameTest.Forms.MainForm.resources
+E:\HPXIN\电气公司插框测试上位机\G0100001.ETP.Test\scr\InsertFrameTest\InsertFrameTest\obj\Release\InsertFrameTest.csproj.GenerateResource.cache
+E:\HPXIN\电气公司插框测试上位机\G0100001.ETP.Test\scr\InsertFrameTest\InsertFrameTest\obj\Release\InsertFrameTest.csproj.CoreCompileInputs.cache
+E:\HPXIN\电气公司插框测试上位机\G0100001.ETP.Test\scr\InsertFrameTest\InsertFrameTest\obj\Release\InsertFrameTest.exe
+E:\HPXIN\电气公司插框测试上位机\G0100001.ETP.Test\scr\InsertFrameTest\InsertFrameTest\obj\Release\InsertFrameTest.pdb

@@ -1,0 +1,11 @@
+[
+  {
+    "Name": "新建配置文件",
+    "Projects": [
+      {
+        "Path": "InsertFrameTest\\InsertFrameTest.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
